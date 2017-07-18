@@ -38,5 +38,13 @@ var webpackConfig = {
 
 };
 ```
+构建代码，大功告成
+```
+npm run build 
+```
+
+
+
+
 
 
